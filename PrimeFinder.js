@@ -1,7 +1,8 @@
 function PrimeFinder(){
 
+	 this.getPrimeFinder = function(){};
 
-console.log('hi');
+
 
 
 }
